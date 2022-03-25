@@ -6,4 +6,4 @@ def url(s):
     return "".join(s)
 
 if __name__=="__main__":
-    print(url("eu coaie"))
+    print(url("I am"))
